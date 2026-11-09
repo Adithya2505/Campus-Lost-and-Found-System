@@ -1,0 +1,6 @@
+CREATE EXTENSION IF NOT EXISTS vector;
+CREATE TABLE IF NOT EXISTS item_vectors (
+  item_id INTEGER PRIMARY KEY,
+  embedding vector(128) NOT NULL
+);
+

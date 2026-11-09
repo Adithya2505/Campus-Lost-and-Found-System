@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Black wireless headphones",
+    "category": "Electronics",
+    "description": "Black over-ear wireless headphones with a padded headband. A small silver mark on the left ear cup.",
+    "color": "Black",
+    "brand": "Sony",
+    "photo": "sample-headphones.jpg",
+    "location": "Central library, reading hall",
+    "status": "available"
+  },
+  {
+    "name": "Canvas tote bag",
+    "category": "Bags",
+    "description": "Beige canvas tote bag with two long handles and a small mark near the bottom seam.",
+    "color": "Beige",
+    "brand": "",
+    "photo": "sample-backpack.jpg",
+    "location": "Cafeteria, table near the entrance",
+    "status": "available"
+  },
+  {
+    "name": "Reusable water bottle",
+    "category": "Bottles",
+    "description": "Reusable water bottle with a screw cap. Has a small scratch near the base.",
+    "color": "Green",
+    "brand": "",
+    "photo": "sample-bottle.jpg",
+    "location": "Sports complex, spectator seats",
+    "status": "available"
+  },
+  {
+    "name": "Wireless headphones in case",
+    "category": "Electronics",
+    "description": "Black wireless over-ear headphones with a padded headband. Found beside a black carrying case.",
+    "color": "Black",
+    "brand": "Sony",
+    "photo": "sample-headphones.jpg",
+    "location": "Engineering block, room 204",
+    "status": "available"
+  },
+  {
+    "name": "White wristwatch",
+    "category": "Accessories",
+    "description": "Round wristwatch with a white strap and a dark face. Small wear marks near the buckle.",
+    "color": "White",
+    "brand": "",
+    "photo": "sample-watch.jpg",
+    "location": "Main auditorium lobby",
+    "status": "collected"
+  },
+  {
+    "name": "Red sports shoes",
+    "category": "Other",
+    "description": "A pair of red sports shoes with white soles. Left in a bag after practice.",
+    "color": "Red",
+    "brand": "Nike",
+    "photo": "sample-shoes.jpg",
+    "location": "Sports complex changing area",
+    "status": "awaiting_deposit"
+  }
+]
